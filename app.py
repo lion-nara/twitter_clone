@@ -52,8 +52,7 @@ else:
         with st.container():
             col1, col2 = st.columns([1, 10])
             with col1:
-                # st.image("https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face", width=100)
-                st.image("https://unsplash.com/ko/%EC%82%AC%EC%A7%84/fflBaqZMZAw", width=100)
+                st.image("https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face", width=100)
             with col2:
                 st.markdown(f"**{current_user['username']}** • 방금 전")
                 st.markdown("로그인 시스템이 완성되었습니다! 🎉")
