@@ -1,3 +1,4 @@
 user_id,username,password,created_at
 user_001,테스트러,test123,2025-08-12
 user_002,lion,1111,2025-08-12
+user_003,tiger,1111,2025-08-12
